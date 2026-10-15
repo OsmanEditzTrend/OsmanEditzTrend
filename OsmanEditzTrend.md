@@ -6,3 +6,4 @@ My Channels:
 • YouTube: https://www.youtube.com/@OsmanEditzTrend
 • Facebook: https://www.facebook.com/OsmanEditzTrend1
 • instagram: https://www.instagram.com/OsmanEditzTrend
+https://g.dev/OsmanEditzTrend
