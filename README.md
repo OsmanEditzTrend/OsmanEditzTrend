@@ -16,7 +16,7 @@
 
 #### 📌 Kuruluş: Osman Bey Edit
 Check out my latest cinematic video edit on Facebook Reels!
-[![Watch the Video](https://shields.io)](https://facebook.com) 🚀
+[![Watch the Video](https://shields.io)](https://www.facebook.com/share/r/1A46BPXMGr/) 🚀
 
 ---
 
