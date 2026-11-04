@@ -27,7 +27,7 @@ Check out my latest cinematic video edit on Facebook Reels!
 ### 🌐 تابع منصاتي الرسمية (Connect with Me)
 
 <p align="left">
-  <a href="https://tiktok.com/OsmanEditzTrend" target="_blank">
+  <a href="https://tiktok.com/@OsmanEditzTrend" target="_blank">
     <img src="https://shields.io" alt="TikTok">
   </a>
   <a href="https://youtube.com/@OsmanEditzTrend" target="_blank">
