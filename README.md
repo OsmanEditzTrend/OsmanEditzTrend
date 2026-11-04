@@ -30,7 +30,7 @@ Check out my latest cinematic video edit on Facebook Reels!
   <a href="https://tiktok.com/OsmanEditzTrend" target="_blank">
     <img src="https://shields.io" alt="TikTok">
   </a>
-  <a href="https://youtube.com/OsmanEditzTrend" target="_blank">
+  <a href="https://youtube.com/@OsmanEditzTrend" target="_blank">
     <img src="https://shields.io" alt="YouTube">
   </a>
   <a href="https://instagram.com/OsmanEditzTrend" target="_blank">
