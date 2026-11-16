@@ -4,10 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Osman Editz Trend | Official Links</title>
-  <meta
-    name="description"
-    content='Editor | "Osman Editz Trend" - Creating global video edits and digital content for a worldwide audience. مصمم وصانع محتوى مرئي لتصاميم المسلسلات والأفلام السينمائية.'
-  >
+  <meta name="description" content='Editor | "Osman Editz Trend" - Creating global video edits and digital content for a worldwide audience. مصمم وصانع محتوى مرئي لتصاميم المسلسلات والأفلام السينمائية.'>
   <style>
     body {
       margin: 0;
@@ -106,31 +103,34 @@
 
     <div class="section-title">My Channels</div>
 
-    <div class="links" id="links-container"></div>
+    <div class="links">
+      <a href="https://www.tiktok.com/@OsmanEditzTrend" target="_blank" rel="noopener">
+        <span class="platform-name">🎵 TikTok</span>
+        <span class="platform-url">https://www.tiktok.com/@OsmanEditzTrend</span>
+      </a>
+
+      <a href="https://www.youtube.com/@OsmanEditzTrend" target="_blank" rel="noopener">
+        <span class="platform-name">🎬 YouTube</span>
+        <span class="platform-url">https://www.youtube.com/@OsmanEditzTrend</span>
+      </a>
+
+      <a href="https://www.facebook.com/OsmanEditzTrend1" target="_blank" rel="noopener">
+        <span class="platform-name">📘 Facebook</span>
+        <span class="platform-url">https://www.facebook.com/OsmanEditzTrend1</span>
+      </a>
+
+      <a href="https://www.instagram.com/OsmanEditzTrend" target="_blank" rel="noopener">
+        <span class="platform-name">📸 Instagram</span>
+        <span class="platform-url">https://www.instagram.com/OsmanEditzTrend</span>
+      </a>
+
+      <a href="https://g.dev/OsmanEditzTrend" target="_blank" rel="noopener">
+        <span class="platform-name">💻 Google Developer</span>
+        <span class="platform-url">https://g.dev/OsmanEditzTrend</span>
+      </a>
+    </div>
 
     <div class="footer">© 2026 Osman Editz Trend</div>
   </div>
-
-  <script>
-    const brand = "OsmanEditzTrend";
-    const at = "@";
-    const channels = [
-      { name: "🎵 TikTok", url: "https://tiktok.com" + at + brand },
-      { name: "🎬 YouTube", url: "https://youtube.com" + at + brand },
-      { name: "📘 Facebook", url: "https://facebook.com" + brand + "1" },
-      { name: "📸 Instagram", url: "https://instagram.com" + brand },
-      { name: "💻 Google Developer", url: "https://g.dev" + brand }
-    ];
-
-    const container = document.getElementById("links-container");
-    channels.forEach(item => {
-      const a = document.createElement("a");
-      a.href = item.url;
-      a.target = "_blank";
-      a.rel = "noopener";
-      a.innerHTML = `<span class="platform-name">${item.name}</span><span class="platform-url">${item.url}</span>`;
-      container.appendChild(a);
-    });
-  </script>
 </body>
 </html>
